@@ -1,4 +1,5 @@
 # Sales-Project---Power-BI
+![image](https://github.com/user-attachments/assets/8d4141a3-2152-4fcb-a70a-86959f1e1756)
 
 📄The sales report for the first quarter of 2019 analyzes supermarket transactions from January to March.
 

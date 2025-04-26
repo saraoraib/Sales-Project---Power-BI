@@ -1,6 +1,7 @@
 # Sales-Project---Power-BI
 
 📄The sales report for the first quarter of 2019 analyzes supermarket transactions from January to March.
+
 The total sales for Q1 2019 reached 322.97K, with a gross income of 15.38K.
 January recorded the highest total sales and gross income, while February experienced a significant decline.
 Yangon city was the top-performing city, accounting for 34.24% of total sales, followed closely by Naypyitaw and Mandalay.
